@@ -27,10 +27,10 @@ int main(int argc, char *argv[]) {
 	
 	printf("Girilen Kitap Adi: %s",kitapadi);
 	printf("Girilen Yazar Adi: %s",yazar);
-	printf("Girilen Sayfa Sayýsý:",sayfasayisi);
-	printf("Girilen Basým Tarihi",tarih);
-	printf("Girilen Basým Yeri",basimevi);
-	printf("Girilen Kitabin Turu",tur);
+	printf("Girilen Sayfa Sayýsý %d:",sayfasayisi);
+	printf("Girilen Basým Tarihi %d",tarih);
+	printf("Girilen Basým Yeri %s",basimevi);
+	printf("Girilen Kitabin Turu %s",tur);
 	return 0;
 	
 }
