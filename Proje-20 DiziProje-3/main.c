@@ -6,7 +6,7 @@
 int main(int argc, char *argv[]) {
 	
 // Proje-1
-/*
+
 	int en,boy,i,j;
 	printf("En Degeri: ");
 	scanf("%d",&en);
@@ -21,10 +21,10 @@ int main(int argc, char *argv[]) {
 		}	
 		printf("\n");
 	}
-*/
+
 
 // Proje-2
-/*
+
 int i,j,taban;
 printf("Taban Degerini Girin: ");
 scanf("%d",&taban);
@@ -37,12 +37,12 @@ for(i=1;i<=taban;i++)
 	}
 	printf("\n");
 }
-*/
+
 
 
 // Proje-3
 
-/*
+
 int i,j,taban,k,l;
 printf("Taban Degerini Girin: ");
 scanf("%d",&taban);
@@ -64,12 +64,12 @@ for(k=1;k<=taban;k++)
 	}
 	printf("\n");
 }
-*/
+
 
 //Proje-4
 
 
-/*
+
 int i,j;
 
 for(i=1;i<10;i++) // Boþluk
@@ -180,7 +180,7 @@ for(i=1;i<=10;i++)	// 10 Yýldýz
 	printf("* ");
 }
 
-*/
+
 
 // Proje-4 Kýsa Yol(Eskenar Ucgne)
 

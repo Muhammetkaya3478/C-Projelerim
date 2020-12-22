@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 
-/*
+
 	int i,j,k,l;
 	
 	for(k=1;k<=5;k++)
@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
 		}
 		printf("\n");
 	}
-*/	
+	
 	// Ödev Projesi
 int i,j;
 

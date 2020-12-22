@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	
-	/*	
+		
 	
 	int dizi[2][2]; // 2 Satýr, 2 Sütünluk matris açtýk.
 	
@@ -19,7 +19,7 @@ int main(int argc, char *argv[]) {
 	printf("Matrisin 1-0'da bulunan elamani: %d\n",dizi[1][0]);
 	printf("Matrisin 1-1'da bulunan elamani: %d\n",dizi[1][1]);	
 	
-	*/	
+		
 	
 	// Proje-1
 	

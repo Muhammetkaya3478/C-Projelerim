@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	
-/*
+
 	// Matrislerde Toplama
 	
 	int mris1[2][2]={10,20,30,40};
